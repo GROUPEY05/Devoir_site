@@ -74,3 +74,33 @@ nav ul li a {
     font-size: 30px;
 }
 /*fin du css du header*/
+/*debut du contact.css main*/
+.button2{
+    background-color: #FF5733; /* Fond orange */
+    border: none; /* Pas de bordure */
+    border-radius: 20px; /* Coins arrondis */
+    padding: 10px 20px; /* Espacement intérieur */
+    font-size: 14px; /* Taille du texte */
+    color: white; /* Couleur du texte */
+    cursor: pointer; /* Curseur en forme de main */
+    display: flex; /* Pour aligner l'icône et le texte */
+    align-items: center; /* Centrer verticalement */
+    gap: 0px; /* Espace entre l'icône et le texte */
+    height: 40px;
+    margin-top: 5px; /* Reduced space */
+}
+.g2{
+    display: flex;
+}
+.title{
+    color: #7855f9;
+}
+.h6{
+
+}
+i{
+
+}
+.A1{
+    display: flex;
+}
