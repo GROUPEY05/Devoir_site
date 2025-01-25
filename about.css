@@ -46,7 +46,7 @@ top: 106px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
-font-size: 32px;
+font-size: 40px;
 line-height: 40px;
 
 color: #000000;
@@ -200,28 +200,16 @@ color: #868587;
 }
 
 /* Group 17 */
-
+button{
 position: absolute;
 width: 243px;
 height: 61.69px;
 left: 968px;
 top: 538px;
-
-
-
-/* Rectangle 43 */
-button{
-    display: flex;
-    position: absolute;
-    width: 230px;
-    height: 61.69px;
-    left: 968px;
-    top: 538px;
-    
-    background: #FF6607;
-    border-radius: 173.5px;
+ 
+background: #FF6607;
+border-radius: 173.5px;
 }
-
 
 /* Read More */
 .boutton {
@@ -240,54 +228,55 @@ button{
     color: #FFFFFF;
      background: #FF6607;
      border-radius: 173.5px;
-     ;
+     
 }
 
-
-
-
 /* Vector */
-i{
+#fleche{
 
     position: absolute;
     width: 29px;
     height:18,93px;
-    top: 900px;
-    bottom: 566px;
+    left: 170px;
+    top: 20px;
     
-    background: #FBFCFE;    
+    background: #FF6607;   
 }
+ 
+
 /* rectangle 3 */
+.container3{
 
-position: absolute;
-width: 1800px;
-height: 622px;
-left: -8px;
-top: 1447px;
-
-background: #F8F7F7;
-
+    position: absolute;
+    width: 1440px;
+    height: 622px;
+    left: 0px;
+    top: 1447px;
+    
+    background: #F8F7F7;
+}
 
 /* WHY CHOOSE US */
+.p9{
 
-position: absolute;
-width: 205px;
-height: 29px;
-left: calc(50% - 205px/2 + 0.5px);
-top: 143px;
+    position: absolute;
+    width: 205px;
+    height: 29px;
+    left: calc(50% - 205px/2 + 0.5px);
+    top: 143px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    color: #363FF3;
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-/* identical to box height */
-
-color: #363FF3;
-
-
-
-/* We Believe In Design As Powerful Force For Good. */
+}
+.p10{
+    /* We Believe In Design As Powerful Force For Good. */
 
 position: absolute;
 width: 944px;
@@ -304,273 +293,7 @@ line-height: 48px;
 color: #000000;
 
 
-
-/* Group 19 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 128px;
-top: 266px;
-
-
-
-/* Rectangle 52 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 128px;
-top: 266px;
-
-background: #FFFFFF;
-
-
-/* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
-
-position: absolute;
-width: 280px;
-height: 72px;
-left: 300px;
-top: 364px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-
-color: #868587;
-
-
-
-/* Property Management */
-
-position: absolute;
-width: 254px;
-height: 29px;
-left: 300px;
-top: 315px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-/* identical to box height */
-
-color: #000000;
-
-
-
-/* Ellipse 17 */
-
-position: absolute;
-width: 105px;
-height: 111px;
-left: 177px;
-top: 320px;
-
-background: rgba(254, 19, 105, 0.09);
-
-
-/* briefcase */
-
-position: absolute;
-width: 75px;
-height: 65px;
-left: 192px;
-top: 338px;
-
-background: url(briefcase.png);
-
-
-/* Group 21 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 670px;
-top: 266px;
-
-
-
-/* Rectangle 53 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 670px;
-top: 266px;
-
-background: #FFFFFF;
-
-
-/* Mortage Service */
-
-position: absolute;
-width: 189px;
-height: 29px;
-left: 840px;
-top: 315px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-/* identical to box height */
-
-color: #000000;
-
-
-
-/* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
-
-position: absolute;
-width: 280px;
-height: 72px;
-left: 840px;
-top: 364px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-
-color: #858687;
-
-
-
-/* Group 18 */
-
-position: absolute;
-width: 100px;
-height: 100px;
-left: 698px;
-top: 314px;
-
-
-
-/* Ellipse 15 */
-
-position: absolute;
-width: 100px;
-height: 100px;
-left: 698px;
-top: 314px;
-
-background: rgba(254, 19, 105, 0.09);
-
-
-/* photo 1 */
-
-position: absolute;
-width: 70px;
-height: 64px;
-left: 716px;
-top: 332px;
-
-background: url(photo.png);
-
-
-/* Group 22 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 1195px;
-top: 264px;
-
-
-
-/* Rectangle 54 */
-
-position: absolute;
-width: 480px;
-height: 245px;
-left: 1195px;
-top: 264px;
-
-background: #FFFFFF;
-
-
-/* Consulting Service */
-
-position: absolute;
-width: 213px;
-height: 29px;
-left: 1355px;
-top: 318px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 29px;
-/* identical to box height */
-
-color: #000000;
-
-
-
-/* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
-
-position: absolute;
-width: 280px;
-height: 72px;
-left: 1346px;
-top: 364px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-
-color: #868587;
-
-
-
-/* icon */
-
-position: absolute;
-left: 68.33%;
-right: 26.61%;
-top: 52.73%;
-bottom: 30.71%;
-
-
-
-/* Ellipse 5 */
-
-position: absolute;
-left: 68.33%;
-right: 26.61%;
-top: 52.73%;
-bottom: 30.71%;
-
-background: #DDFFE1;
-
-
-/* Ellipse 6 */
-
-position: absolute;
-left: 69.85%;
-right: 28.13%;
-top: 57.7%;
-bottom: 35.68%;
-
-background: url(eiffel-tower.png);
-
-
-
-
-
-
-
-
+}
 
 
 
