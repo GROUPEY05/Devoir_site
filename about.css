@@ -1,0 +1,948 @@
+.container {
+    position: absolute;
+    width: 1440px;
+    height: 511px;
+    left: 0px;
+    top: 176px;
+    display: flex;
+    background: #FAF8F8;
+}
+
+.bloc-1 {
+
+    position: absolute;
+    width: 314px;
+    height: 325px;
+    left: 90px;
+    top: 93px;
+}
+
+.bloc-1 .p1 {
+
+    position: absolute;
+    width: -245px;
+    height: 24px;
+    left: 24px;
+    top: 67px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+
+    color: #363FF3;
+}
+
+.bloc-1 .p2 {
+
+    position: absolute;
+    width: 452px;
+    height: 144px;
+    left: 24px;
+    top: 106px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
+
+    color: #000000;
+}
+
+.bloc-2 {
+    display: flex;
+    position: absolute;
+    width: 159px;
+    height: 296px;
+    left: 816px;
+    top: 122px;
+}
+
+.p3 {
+    display: flex;
+    position: absolute;
+    width: 504px;
+    height: 87px;
+    left: 15px;
+    top: 33px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+
+    color: #534B4B;
+}
+
+.p4 {
+    display: flex;
+    position: absolute;
+    width: 504px;
+    height: 87px;
+    left: 15px;
+    top: 148px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 29px;
+
+    color: #534B4B;
+}
+
+.container2 {
+    position: absolute;
+    width: 1440px;
+    height: 754px;
+    left: 0px;
+    top: 587px;
+    display: flex;
+}
+
+#image4 {
+    display: flex;
+    position: absolute;
+    width: 610px;
+    height: 328px;
+    left: 154px;
+    top: 221px;
+}
+
+
+.bloc1 {
+    display: flex;
+    position: absolute;
+    width: 504px;
+    height: 282px;
+    left: -70px;
+    top: 15px;
+
+}
+
+
+
+/* LEADERSHIP */
+.p5 {
+    display: flex;
+    position: absolute;
+    width: 146px;
+    height: 29px;
+    left: 968px;
+    top: 175px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    color: #363FF3;
+}
+
+
+/* Our Team Work */
+.p6 {
+    display: flex;
+    position: absolute;
+    width: 291px;
+    height: 48px;
+    left: 968px;
+    top: 204px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #000000;
+}
+
+
+
+/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis. integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justo ufricis in. */
+.p7 {
+    display: flex;
+    position: absolute;
+    width: 504px;
+    height: 72px;
+    left: 968px;
+    top: 283px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+}
+
+
+
+/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis. integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justo ufricis in. */
+.p8 {
+    display: flex;
+    position: absolute;
+    width: 504px;
+    height: 72px;
+    left: 968px;
+    top: 385px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+}
+
+
+button {
+    position: absolute;
+    width: 243px;
+    height: 61.69px;
+    left: 968px;
+    top: 538px;
+
+    background: #FF6607;
+    border-radius: 173.5px;
+}
+
+/* Read More */
+.boutton {
+    position: absolute;
+    width: 230px;
+    height: 61.69px;
+    left: 900px;
+    top: 557.56px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+    background: #FF6607;
+    border-radius: 173.5px;
+
+}
+
+
+#fleche {
+
+    position: absolute;
+    width: 29px;
+    height: 18, 93px;
+    left: 170px;
+    top: 20px;
+
+    background: #FF6607;
+}
+
+
+.container3 {
+
+    position: absolute;
+    width: 1440px;
+    height: 622px;
+    left: 0px;
+    top: 1447px;
+
+    background: #F8F7F7;
+}
+
+/* WHY CHOOSE US */
+.p9 {
+
+    position: absolute;
+    width: 205px;
+    height: 29px;
+    left: calc(50% - 205px/2 + 0.5px);
+    top: 143px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    
+
+    color: #363FF3;
+
+}
+
+.p10 {
+    /* We Believe In Design As Powerful Force For Good. */
+
+    position: absolute;
+    width: 944px;
+    height: 48px;
+    left: calc(50% - 944px/2);
+    top: 172px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #000000;
+
+}
+
+
+.rec1 {
+
+    position: absolute;
+    width: 384px;
+    height: 220px;
+    left: 128px;
+    top: 266px;
+
+    background: #FFFFFF;
+
+
+}
+
+
+#sacbleu {
+
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 30px;
+    top: 64px;
+
+}
+
+.r1 {
+    /* Property Management */
+
+    position: absolute;
+    width: 254px;
+    height: 29px;
+    left: 118px;
+    top: 64px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+.r2 {
+    /* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
+
+    position: absolute;
+    width: 280px;
+    height: 72px;
+    left: 118px;
+    top: 94px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+
+}
+
+.rec2 {
+    position: absolute;
+    width: 384px;
+    height: 220px;
+    left: 528px;
+    top: 266px;
+
+    background: #FFFFFF;
+
+}
+
+#oeil {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 30px;
+    top: 64px;
+}
+
+.r3 {
+    /* Mortage Service */
+
+    position: absolute;
+    width: 189px;
+    height: 29px;
+    left: 118px;
+    top: 64px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+
+    color: #000000;
+
+
+}
+
+.r4 {
+    /* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
+
+    position: absolute;
+    width: 280px;
+    height: 72px;
+    left: 118px;
+    top: 94px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #858687;
+
+
+}
+
+.rec3 {
+    
+
+    position: absolute;
+    width: 384px;
+    height: 220px;
+    left: 928px;
+    top: 266px;
+
+    background: #FFFFFF;
+
+}
+
+#paris {
+    /* icon */
+
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 30px;
+    top: 64px;
+
+}
+
+.r5 {
+    /* Consulting Service */
+
+    position: absolute;
+    width: 213px;
+    height: 29px;
+    left: 120px;
+    top: 64px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    color: #000000;
+
+
+}
+
+.r6 {
+    /* lorem ipsum dolor sit amet,Ea consequuntur illum facere */
+
+    position: absolute;
+    width: 280px;
+    height: 72px;
+    left: 120px;
+    top: 94px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+
+}
+
+.container4 {
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 973px;
+    left: 0px;
+    top: 2072px;
+
+    background: #FFFFFF;
+}
+
+.p11 {
+    /* LEADING TEAM */
+
+    position: absolute;
+    width: 178px;
+    height: 29px;
+    left: 648px;
+    top: 108px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    
+
+    color: #363FF3;
+    text-align: center;
+
+}
+
+.p12 {
+    /* Meet Our Team */
+
+    position: absolute;
+    width: 291px;
+    height: 48px;
+    left: 603px;
+    top: 137px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #000000;
+    text-align: center;
+
+}
+
+.sec1 {
+    
+
+    position: absolute;
+    width: 279px;
+    height: 547px;
+    left: 100px;
+    top: 118px;
+
+
+}
+
+#team1 {
+    /* team1 */
+
+    position: absolute;
+    width: 279px;
+    height: 442px;
+    left: 0px;
+    top: 118px;
+
+    background: url(team1.jpg);
+
+}
+
+.facelogo {
+    /* facebook 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 180px;
+    top: 533px;
+
+    background: url(facebook.png);
+
+}
+
+.twittelogo {
+    /* twitter 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 230px;
+    top: 533px;
+
+    background: url(twitter.png);
+
+}
+
+.tab1 {
+
+    position: absolute;
+    width: 279px;
+    height: 102px;
+    left: 100px;
+    top: 663px;
+
+    background: #FFF9F9;
+
+}
+
+.t1 {
+    /* Max Stoiber */
+
+    position: absolute;
+    width: 182px;
+    height: 39px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+    
+
+    color: #000000;
+
+
+}
+
+.t2 {
+    /* Chef Executive */
+
+    position: absolute;
+    width: 142px;
+    height: 24px;
+    left: 20px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+
+}
+
+.sec2 {
+
+    position: absolute;
+    width: 279px;
+    height: 547px;
+    left: 410px;
+    top: 236px;
+
+
+}
+
+#team2 {
+    /* team2 */
+
+    position: absolute;
+    width: 279px;
+    height: 442px;
+    left: 0px;
+    top: 0px;
+
+    background: url(team2.jpg);
+
+}
+
+.facelogo2 {
+    /* facebook 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 180px;
+    top: 415px;
+
+    background: url(facebook.png);
+
+}
+
+.twittelogo2 {
+    /* twitter 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 230px;
+    top: 415px;
+
+    background: url(twitter.png);
+
+}
+
+.tab2 {
+
+    position: absolute;
+    width: 279px;
+    height: 102px;
+    left: 410px;
+    top: 663px;
+
+    background: #FFF9F9;
+
+}
+
+.t3 {
+    /* Dhony Abraham */
+
+    position: absolute;
+    width: 243px;
+    height: 39px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+
+    color: #000000;
+
+
+}
+
+.t4 {
+    /* Managing Director */
+
+    position: absolute;
+    width: 175px;
+    height: 24px;
+    left: 20px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+
+}
+
+.sec3 {
+
+    position: absolute;
+    width: 279px;
+    height: 547px;
+    left: 722px;
+    top: 236px;
+
+
+}
+
+#team3 {
+    /* team3 */
+
+    position: absolute;
+    width: 279px;
+    height: 442px;
+    left: 0px;
+    top: 0px;
+
+    background: url(team3.jpg);
+
+}
+
+.facelogo3 {
+    /* facebook 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 180px;
+    top: 415px;
+
+    background: url(facebook.png);
+
+}
+
+.twittelogo3 {
+    /* twitter 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 230px;
+    top: 415px;
+
+    background: url(twitter.png);
+
+}
+
+.tab3 {
+
+    position: absolute;
+    width: 279px;
+    height: 102px;
+    left: 722px;
+    top: 663px;
+
+    background: #FFF9F9;
+
+}
+
+.t5 {
+    /* Rhoda Byrd */
+
+    position: absolute;
+    width: 176px;
+    height: 39px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+
+    color: #000000;
+
+
+}
+
+.t6 {
+    /* HR Officer */
+
+    position: absolute;
+    width: 98px;
+    height: 24px;
+    left: 20px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+}
+
+.sec4 {
+
+    position: absolute;
+    width: 279px;
+    height: 547px;
+    left: 1032px;
+    top: 236px;
+
+
+}
+
+#team4 {
+    /* team4 */
+
+    position: absolute;
+    width: 279px;
+    height: 442px;
+    left: 0px;
+    top: 0px;
+
+    background: url(team4.jpg);
+
+}
+
+.facelogo4 {
+    /* facebook 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 180px;
+    top: 415px;
+
+    background: url(facebook.png);
+
+}
+
+.twittelogo4 {
+    /* twitter 1 */
+
+    position: absolute;
+    width: 34px;
+    height: 34px;
+    left: 230px;
+    top: 415px;
+
+    background: url(twitter.png);
+
+}
+
+.tab4 {
+
+    position: absolute;
+    width: 279px;
+    height: 102px;
+    left: 1032px;
+    top: 663px;
+
+    background: #FFF9F9;
+
+}
+
+.t7 {
+    /* Rhoda Byrd */
+
+    position: absolute;
+    width: 176px;
+    height: 39px;
+    left: 20px;
+    top: 0px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 39px;
+
+    color: #000000;
+
+
+}
+
+.t8 {
+    /* worker */
+
+    position: absolute;
+    width: 65px;
+    height: 24px;
+    left: 20px;
+    top: 40px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    color: #868587;
+
+
+}
