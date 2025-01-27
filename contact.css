@@ -93,7 +93,7 @@ nav ul li a {
     margin-top: 40px; /* Reduced space */
     margin-left: 260px;
     margin-right: 20px;
-    text-align: left: 95px;
+    text-align: left;
 }
 .g2{
     display: flex;
@@ -102,7 +102,7 @@ nav ul li a {
 .g3{
     text-align: center;
     margin-left: 20px;
-    margin-top: -400px;
+    margin-top: -480px;
 }
 .leftblock{
     margin-left: 100px;
@@ -113,18 +113,16 @@ nav ul li a {
     margin-top: -430px;
     border-radius: 10px;
     float: right;
-    align-items: self-start;
+   
 }
 input{
     width: 400px;
     height: 50px;
     gap: 20px;
     border-radius: 5px;
-    box-shadow: inset;
-    padding-bottom: 5px;
 }
 .AA{
-    margin-right: 90px;
+    margin-right: 100px;
 }
 .signinform{
     float: right;
@@ -204,13 +202,5 @@ i{
 .z006{
     margin-bottom: 70px;
     padding-inline-end: 70px;
-    height: 50px;
-    box-sizing: border-box;
-}
-.C{
-    align-content: flex-end;
-}
-::placeholder{
-    line-height: normal;
-    vertical-align: top;
-}
+    height: 50px;   
+}}
