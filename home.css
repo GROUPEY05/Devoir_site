@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     min-height: 100vh;
     font-family: Arial, sans-serif;
+    height: auto;
 }
 
 iframe {
@@ -24,4 +25,10 @@ iframe {
 .bloc_temoignage {
     justify-content: center;
     background-color: #ccc;
+}
+.footer {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 100%;
 }

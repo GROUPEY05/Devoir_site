@@ -11,6 +11,11 @@ body {
 
 
 /*debut du css du hearder*/
+.bouton_lune {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
 
 header {
     position: fixed;
@@ -24,7 +29,7 @@ header {
     display: flex; /* Active Flexbox */
     justify-content: space-between; /* Espace le logo et le menu */
     align-items: center; /* Centre verticalement les éléments */
-    padding: 10px 10px; /* Ajoute un peu d'espace autour */
+    padding: 6px 10px; /* Ajoute un peu d'espace autour */
     
 }
 

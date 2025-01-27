@@ -533,22 +533,22 @@ line-height: 15px;
 
 }
 .block4_nmber3{
-/* 2200+ Happy Buyers */
+    /* 2200+ Happy Buyers */
 
- 
-width: 350px;
-height: 107px;/*
-/*left: 600px;
-top: 8px;*/
-padding-right: 25px
-font-family: 'Inter';
-font-style: normal;
-font-weight: 300;
-font-size: 20px;
-line-height: 15px;
-text-align: center;
+    
+    width: 350px;
+    height: 107px;/*
+    /*left: 600px;
+    top: 8px;*/
+    padding-right: 25px
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 15px;
+    text-align: center;
 
-color: #000000;
+    color: #000000;
 
 
 }
@@ -788,6 +788,161 @@ margin-left: 10px;
     margin-top: 50px;
     margin-left: 10px;  
 }
+
+ /*-----------------------------  section FQA------------------------------------''''' */
+
+ .faq-section {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: left;
+    padding: 20px;
+    display: flex;
+    gap: 40%;
+    
+; 
+    
+  }
+  
+  .faq-section h4 {
+    color: #007bff;
+    font-size: 14px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .faq-section h2 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .faq-section p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 30px;
+  }
+  
+  .faq-container {
+    display: flex;
+    flex-direction: column;
+    
+
+    gap: 10px;
+  }
+  
+  .faq-item {
+    background: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .faq-question {
+    width: 100%;
+    padding: 15px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background: #f9f9f9;
+    border: none;
+    text-align: left;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #333;
+    outline: none;
+    transition: background 0.3s;
+  }
+  
+  .faq-question:hover {
+    background: #eaeaea;
+  }
+  
+  .faq-answer {
+    padding: 15px 20px;
+    font-size: 14px;
+    color: #666;
+    display: none;
+  }
+  
+  .faq-question .icon {
+    font-weight: bold;
+    font-size: 18px;
+    color: #007bff;
+  }
+
+
+  /*   ----------------------------secttion temoignage--------------------------------- */
+
+  .testimonial-section {
+    padding: 50px 20px;
+    background-color: #fff;
+  }
+  
+  .testimonial-container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  .profile-pic img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    border: 3px solid #f0f0f0;
+  }
+  
+  .testimonial-content .quote-icon {
+    font-size: 50px;
+    color: #ffa41b;
+    margin: 0;
+  }
+  
+  .testimonial-content h3 {
+    font-size: 24px;
+    color: #333;
+    font-weight: bold;
+    margin: 10px 0;
+  }
+  
+  .testimonial-text {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.6;
+    margin: 20px 0;
+  }
+  
+  .author strong {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  .author span {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .dots {
+    margin-top: 20px;
+  }
+  
+  .dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 0 5px;
+    background-color: #ddd;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .dot.active {
+    background-color: #ffa41b;
+  }
+  
 
 
 
