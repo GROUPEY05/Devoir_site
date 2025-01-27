@@ -179,19 +179,8 @@ color: #9a9999;
  
   height: 40px;
 }
-.button_blanc{
-    border: none;
-    border-radius: 20px;
-    font-size: 16px;
-    position: absolute; 
-    color: rgb(60, 56, 56);
-    background-color: white;
-    top: 100px;
-    right: 90%;
-    padding-top: 50px;
+.button-blanc{
 
-    cursor: pointer;
-   
 }
 .button_blanc:hover, .button_orange:hover{
 background-color: #e69ddc;

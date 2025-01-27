@@ -1,6 +1,9 @@
 * {
     box-sizing: border-box;
 }
+iframe {
+    flex: 0 0 auto; /* Allow the iframe to take its natural height */
+}
 
 body {
     font-family: Arial, sans-serif;

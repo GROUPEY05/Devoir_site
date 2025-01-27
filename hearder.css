@@ -11,10 +11,11 @@ body {
 
 
 /*debut du css du hearder*/
-.bouton_lune {
+.button_lune {
     display: flex;
     align-items: center;
-    gap: 10px;
+    column-gap: 90px;
+    gap: 60px;
 }
 
 header {
