@@ -1,10 +1,15 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
 }
 
 body {
     font-family: Arial, sans-serif;
     height: 100vh;
+    text-align: left;
+    font-weight: 400;
 }
 
 header {
@@ -73,3 +78,716 @@ nav ul li a {
 .lune {
     font-size: 30px;
 }
+.div{
+    display: block;
+    unicode-bidi: isolate;
+}
+.block1{
+    display: flex;
+    height: 1000px;
+
+}
+.first_content {
+    display: flex;
+    background-color:white;
+    
+   
+}
+.bloc1_left{
+    text-align: left;
+    padding-right: 150px;
+    padding-left: 7%;
+    margin-top: 60px;
+    padding-top: 25PX;
+    
+}
+.block1_A{
+    
+    color: #007bff;
+    /* A HIGHER QUALITY OF LIVING The Ideal Space To Balance Life, Work And Play. Semper at. Lorem ipsum dolo sit amet elit elit. Non quae, ad esse et. */
+
+position: absolute;
+width: 644px;
+height: 211px;
+left: 87px;
+top: 180px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+
+color: #4D6AFC;
+
+
+}
+.block1_the{
+    /* A HIGHER QUALITY OF LIVING The Ideal Space To Balance Life, Work And Play. Semper at. Lorem ipsum dolo sit amet elit elit. Non quae, ad esse et. */
+
+position: absolute;
+width: 644px;
+height: 100px;
+left: 87px;
+top: 218px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 50px;
+line-height: 50px;
+
+color: #000000;
+
+
+}
+.semper{
+    /* A HIGHER QUALITY OF LIVING The Ideal Space To Balance Life, Work And Play. Semper at. Lorem ipsum dolo sit amet elit elit. Non quae, ad esse et. */
+
+position: absolute;
+width: 644px;
+height: 211px;
+left: 87px;
+top: 338px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #9a9999;
+}
+.block1_leftt{
+    text-align: center;
+    display: flex;
+
+}
+.button-orange{
+    background-color: rgb(242, 102, 67);
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    position: absolute;
+    top: 58%;
+    right: 80%;
+    padding-right: 20px;
+    padding-left: 20px;
+    transform: translate(-55%,-80%);
+    cursor: pointer;
+    color: white;
+    gap: 10px;
+ 
+  height: 40px;
+}
+.button_blanc{
+    border: none;
+    border-radius: 20px;
+    font-size: 16px;
+    position: absolute; 
+    color: rgb(60, 56, 56);
+    background-color: white;
+    top: 100px;
+    right: 90%;
+    padding-top: 50px;
+
+    cursor: pointer;
+   
+}
+.button_blanc:hover, .button_orange:hover{
+background-color: #e69ddc;
+}    
+.bloc1_right{
+   /* 1 1 */
+
+position: absolute;
+width: 750px;
+height: 300px;
+left: 765px;
+top: 148px;
+
+background: url(1.png);
+
+}
+
+.butstart{
+    font-size: 24px;
+    line-height: 50px;
+    margin-top: 200px;
+    font-weight: 600;
+    color: #FFFFFF;
+    background-color: #FF5733;
+    border-radius: 30px;
+}
+
+    /* Rectangle 15 */
+.start{
+position: absolute;
+width: 1800px;
+
+ }
+
+ /* OUR SERVICES We Provide Great Services */
+.block2{
+   text-align: center;
+   /*  background: rgba(134, 133, 135, 0.1);*/
+    /* Rectangle 15 */
+
+position: absolute;
+width: 1520px;
+height: 470px;
+left: 0px;
+top: 500px;
+background: #F4F3F3;
+}
+.first_block2{
+    /* OUR SERVICES We Provide Great Services */
+
+position: absolute;
+width: 450px;
+height: 100px;
+left: 500px;
+top: 55px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 26px;
+text-align: center;
+
+}
+.block2_serv{
+color: #007bff;
+font-size: 20px;
+}
+.block2_prov{
+    color: #000000;
+    font-size: 35px;
+}
+
+.block2_img{
+    display: flex;
+    text-align: center;
+    gap: 60px;
+
+   
+}
+.image_design{
+    /*background-color: #FFFFFF;
+     Rectangle 8 */
+
+position: absolute;
+width: 318px;
+height: 238px;
+left: 78px;
+top: 135px;
+background: #FFFDFD;
+padding-top: 100px;
+
+}
+.image_strategy{
+    position: absolute;
+    width: 318px;
+    height: 238px;
+    left: 558px;
+    top: 135px;
+    padding-top: 100px;
+    background: #FFFAFA;
+    
+}
+.image_marketing{
+    /* Rectangle 10 */
+
+position: absolute;
+width: 318px;
+height: 238px;
+left: 1025px;
+top: 135px;
+background: #FFFAFA;
+padding-top: 100px;
+}
+.block3{
+    /* presentation du site */
+
+position: absolute;
+width: 1520px;
+height: 700px;
+left: 0px;
+top: 970px;
+background-color: white;
+display: flex;
+}
+.block3_img{
+    position: absolute;
+    width: 532px;
+    height: 560px;
+    left: 78px;
+    top: 50px;
+    
+    background: white;
+    
+    }
+
+.block3_text{
+margin-left: 800px;
+padding-top: 120px;
+line-height: 25px;
+}
+
+.block3_b1{
+    display: flex;
+    padding-top: 25px;
+    line-height: 25px;
+}
+.block3_b2{
+    display: flex;
+    padding-top: 30px;
+}
+.block3_t1{
+    line-height: 35px;
+}
+.block3_tt1{
+    
+padding-top: 5px;
+color: #007bff;
+}
+.block3_ttt1{
+    font-size: 35px;
+}
+.block3_tttt1{
+    line-height: 30px;
+    color: #9a9999;
+}
+.block3_b1_1,.block3_b1_2,.block3_b1_3,.block3_b1_4{
+    color: #9a9999;
+}
+.block3_t2, .block3_t3{
+    padding-left: 35px;
+}
+
+.block4{
+/* Rectangle 15 */
+position: absolute;
+width: 1520px;
+height: 900px;
+left: 5px;
+top: 1670px;
+background: #F4F3F3;
+}
+.block4_1{
+    /* AVAILABLE Properties For Rent */
+
+position: absolute;
+width: 350px;
+height: 100px;
+left: 585px;
+top: 50px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 30px;
+text-align: center;
+}
+.block4_1_1{
+    color: #007bff;
+}
+.block4_cont_img{
+    display: flex;
+}
+.block4_home{
+     
+}
+.park_image{
+    /* g1 */
+
+position: absolute;
+width: 300px;
+height: 300px;
+left: 80px;
+top: 150px;
+background: url(g1.jpg);
+}
+.luxury_image{
+    /* g2 */
+
+position: absolute;
+width: 430px;
+height: 300px;
+left: 500px;
+top: 150px;
+background: url(g2.jpg);
+}
+.home_image{
+    /* g3 */
+
+position: absolute;
+width: 30000px;
+height: 300px;
+left: 1050px;
+top: 150px;
+
+background: url(g3.jpg);
+}
+.block4_park_text{
+/* Rectangle 16 */
+
+position: absolute;
+width: 400px;
+height: 200px;
+left: 80px;
+top: 400px;
+line-height: 25px;
+padding-left: 25px;
+padding-top: 15px;
+background: white;
+
+}
+.block4_luxury_text{
+    /* Rectangle 17 */
+
+position: absolute;
+width: 400px;
+height: 200px;
+left: 500px;
+top: 400px;
+line-height: 25px;
+padding-left: 20px;
+padding-top: 15px;
+background: white;
+
+}
+.block4_home_text{
+    /* Rectangle 18 */
+
+position: absolute;
+width: 350px;
+height: 200px;
+left: 1050px;
+top: 400px;
+line-height: 25px;
+padding-left: 0px;
+padding-top: 15px;
+background:white;
+
+}
+.block4_park_icon,.block4_luxury_icon,.block4_home_icon{
+    /* Group 3 */
+
+position: absolute;
+width: 456px;
+height: 59.83px;
+left: 25px;
+top: 135px;
+display: flex;
+gap: 100;
+padding-left: 2px;
+
+}
+.block4_number{
+    /* properties in numbers */
+
+position: absolute;
+width: 1050px;
+height: 120px;
+left: 5px;
+top: 750px;
+display:flex;
+text-align: center;
+align-items: center;
+gap: 100px;
+justify-content: space-between;
+margin-left: 90px;
+}
+.block4_nmber1{
+    /* 3450+ Total Properties */
+
+ 
+width: 313px;
+height: 107px;
+ 
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+color: #000000;
+}
+.block4_nmber2{
+/* 1700+ Trusted Agencies */
+width: 350px;
+height: 107px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 15px;
+/*text-align: center;*/
+
+}
+.block4_nmber3{
+/* 2200+ Happy Buyers */
+
+ 
+width: 350px;
+height: 107px;/*
+/*left: 600px;
+top: 8px;*/
+padding-right: 25px
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+
+color: #000000;
+
+
+}
+.block4_nmber4{
+/* 3270+ Total Agents */
+
+ 
+width: 350px;
+height: 107px;
+/*left: 1000px;
+top: 8px;*/
+padding-right: 25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 20px;
+line-height: 15px;
+text-align: center;
+align-items: center;
+color: #000000;
+
+}
+.block5{
+    position: absolute;
+    width: 1502px;
+    height: 900px;
+    left: 09px;
+    top: 2550px;
+    
+    background: rgb(150, 146, 146)
+}
+.block5_1{
+
+}
+.block5_left1{
+    /* EXPLORE Blog Posts Vestibulum ante ipsum prisim in faucibus orci luctus turpic sodales quis. Integer sit amet mattis quam. Vivamus a ligula quam tesque et libero ut justo ultrices in. */
+
+position: absolute;
+width: 492px;
+height: 280px;
+left: 145px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 30px;
+
+align-items: center;
+color: #000000;
+}
+
+
+.block5_left1 h2{
+    padding-bottom: 25px ;
+}
+.block5_left1 p{
+    font-size: 18px;
+}
+.block5_left2{
+/* g2 1 */
+
+position: absolute;
+width: 450.7px;
+height: 300px;
+left: 145px;
+top: 360px;
+
+background: url(g2.jpg);
+border-radius: 20px;
+
+}
+
+
+.block5_left3{
+/* Dec 30, 2020 What you need to know when choosing balcony Lorem ipsum viverra feugiat. Pellen tesque libero justo. */
+
+position: absolute;
+width: 470px;
+height: 276px;
+left: 145px;
+top: 525px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+align-items: center;
+
+}
+.block5_left3 h6{
+    color: green;
+    padding-top: 25px;
+    padding-bottom: 25px;
+} 
+.block5_left3 p{
+    padding-bottom: 25px; 
+}
+.block5_explo{
+color: #007bff;
+padding-top: 12px;
+padding-bottom: 12px;
+}
+.block5_2{
+    margin-left: 500px;
+    margin-top: 200px;
+    margin-bottom: -500px;
+}
+.imag7{
+ 
+ position: absolute;
+ width: 450px;
+ height: 300px;
+ left: 1278px;
+ top: 200px;
+ 
+ background: url(g5);
+ border-radius: 20px;
+  
+ }
+.block5_3{
+margin-left: 950px;
+margin-bottom: 70px;
+}
+
+.block6{
+/* Rectangle 19 */
+
+position: absolute;
+width: 1520px;
+height: 500px;
+left: 0px;
+top: 5762px;
+
+background: #F5F5F5;
+
+}
+.rectangle_block6{
+display: flex;
+gap: 20px;
+justify-content: center;
+padding-top: 180px;
+}
+.block6_t1{
+    /* WHY CHOOSE US We Have The Most Listings & Constant Updates. */
+
+position: absolute;
+width: 769px;
+height: 237px;
+left: 553px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #363FF3;
+
+
+}
+.block6_buy{
+width: 300px;
+height: 154px;
+background: #FFFFFF;
+display: flex;
+gap: 20px;
+}
+.block6_see{
+    width: 300px;
+    height: 154px;
+    background: #FFFFFF;
+    display: flex;
+    gap: 20px;
+}
+.block6_rent{
+    width: 300px;
+    height: 154px;
+    background: #FFFFFF;
+    display: flex;
+    gap: 20px;
+}
+.logo1{
+display: flex;
+align-items: center;
+width: 50px;
+height: 50px;
+background-color: #bed2f1;
+border-radius: 50%;
+justify-content: center;
+margin-top: 50px;
+margin-left: 10px;
+}
+.logo2{
+    display: flex;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #e69ddc;
+    border-radius: 50%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 10px;  
+}
+.logo3{
+    display: flex;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    background-color: #d1ffd1;
+    border-radius: 50%;
+    justify-content: center;
+    margin-top: 50px;
+    margin-left: 10px;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
