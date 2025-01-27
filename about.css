@@ -163,7 +163,7 @@
 
 
 
-/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis. integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justo ufricis in. */
+/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis.integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justoufricis in. */
 .p7 {
     display: flex;
     position: absolute;
@@ -183,7 +183,7 @@
 
 
 
-/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis. integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justo ufricis in. */
+/* vesidum ante ipsum primis in faucibus onci luctus turpis sodales quis.integer sit amet mattis quam vivamus a liguda quam tesque et libero ut justoufricis in. */
 .p8 {
     display: flex;
     position: absolute;
@@ -945,4 +945,17 @@ button {
     color: #868587;
 
 
+}
+
+
+iframe {
+    flex: 0 0 auto; /* Allow the iframe to take its natural height */
+}
+
+.footer {
+    position: absolute;
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin-top: 3000px;
 }
