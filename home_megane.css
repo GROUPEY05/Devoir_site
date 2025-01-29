@@ -109,7 +109,7 @@ nav ul li a {
 position: absolute;
 width: 644px;
 height: 211px;
-left: 87px;
+left: 169px;
 top: 180px;
 
 font-family: 'Inter';
@@ -128,7 +128,7 @@ color: #4D6AFC;
 position: absolute;
 width: 644px;
 height: 100px;
-left: 87px;
+left: 169px;
 top: 218px;
 
 font-family: 'Inter';
@@ -147,7 +147,7 @@ color: #000000;
 position: absolute;
 width: 644px;
 height: 211px;
-left: 87px;
+left: 167px;
 top: 338px;
 
 font-family: 'Inter';
@@ -158,9 +158,10 @@ line-height: 24px;
 color: #9a9999;
 }
 .block1_leftt{
-    text-align: center;
     display: flex;
-    column-gap: 10px;
+    gap: 120px;
+    padding-top: 280px;
+    align-items: center;
 
 }
 .button-orange{
@@ -168,27 +169,25 @@ color: #9a9999;
     border: none;
     border-radius: 25px;
     font-size: 16px;
-    position: absolute;
+    
     top: 58%;
     right: 80%;
     padding-right: 20px;
-    padding-left: 20px;
     transform: translate(-55%,-80%);
     cursor: pointer;
     color: white;
-    gap: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    ;
  
   height: 40px;
 }
 .button-blanc{
-<<<<<<< HEAD
-
-=======
     background-color:white;
     border: none;
     border-radius: 25px;
     font-size: 16px;
-    position: absolute;
+    border: 1px solid black;
     top: 58%;
     right: 80%;
     padding-right: 20px;
@@ -199,7 +198,6 @@ color: #9a9999;
     gap: 10px;
     margin-left: -25px;
   height: 40px;  
->>>>>>> 446abdb2c28d718ee5f2492b722b4e7f14a88b13
 }
 .button-blanc:hover, .button_orange:hover{
 background-color: #e69ddc;
