@@ -2,6 +2,12 @@
     box-sizing: border-box;
 }
 
+
+.footer {
+    height: 1000px;
+    
+}
+
 body {
     font-family: Arial, sans-serif;
     height: 100vh;
