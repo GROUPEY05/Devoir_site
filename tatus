@@ -1,0 +1,179 @@
+[33mcommit 3e879e2d62750e4f2959557d8599ee90964bd7f7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a999e16 0963983
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 13:26:32 2025 +0100
+
+    Merge branch 'master' of https://github.com/GROUPEY05/Devoir_site
+
+[33mcommit a999e16a142666a9e3e35af95796ace02086f8b2[m
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 13:22:38 2025 +0100
+
+    modification
+
+[33mcommit 096398378ad39ba9b02fd2011a6bbe3494dbcb3f[m
+Author: megane tessa <meganetessa99@gmail.com>
+Date:   Mon Jan 27 13:16:36 2025 +0100
+
+    modifications
+
+[33mcommit 9f22825958283ef6383c4174a52cf49f47af933c[m
+Merge: c01f99b 838d10f
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 12:03:08 2025 +0100
+
+    Merge branch 'master' of https://github.com/GROUPEY05/Devoir_site
+
+[33mcommit c01f99bae9bdeac495a00a1b5171d0ad6798a134[m
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 12:00:27 2025 +0100
+
+    ajout du footer et header dans contact
+
+[33mcommit 838d10f83f83008e7649ac057cf12b2a69fab447[m
+Author: megane tessa <meganetessa99@gmail.com>
+Date:   Mon Jan 27 10:59:07 2025 +0100
+
+    ajout des modifications
+
+[33mcommit 281d21faad060079ef4fcddd7819e949c2073e98[m
+Merge: 6ff283e 3eee55b
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Mon Jan 27 18:30:49 2025 +0100
+
+    Merge branch 'master' of https://github.com/GROUPEY05/Devoir_site
+
+[33mcommit 6ff283e3c738c7218f27f5ddb913ae2b98279e3e[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Mon Jan 27 18:30:09 2025 +0100
+
+    ajout des modification contact.html et contact.css
+
+[33mcommit 9c4178bbd9440fb1653e10208a1339699003cc75[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Mon Jan 27 17:12:33 2025 +0100
+
+    ajout des modification contact.html et contact.css
+
+[33mcommit 3eee55b6e82487cd088c1ca6a36d79f776c5fff9[m
+Merge: e468c0d cc81fba
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Mon Jan 27 10:32:55 2025 +0100
+
+    Merge branch 'master' of https://github.com/GROUPEY05/Devoir_site
+
+[33mcommit e468c0d91279876b33e3df1b334fe7107c149354[m
+Merge: 36d85c6 1365094
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Mon Jan 27 10:24:32 2025 +0100
+
+    Merge branch 'Marvel'
+
+[33mcommit 1365094bd48b5c936fe04c42cac76990e5d505f6[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Mon Jan 27 10:21:27 2025 +0100
+
+    modification du about.ccs
+
+[33mcommit cc81fbadca32d2b2f5e45d0ad9720d54c89ed551[m
+Merge: 9c4178b a90ba66
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 10:01:08 2025 +0100
+
+    Merge pull request #2 from GROUPEY05/ornella
+    
+    ajout des fichiers footer et hearder
+
+[33mcommit a90ba6634ad793f9f722f8874f518c580314b17a[m[33m ([m[1;31morigin/ornella[m[33m)[m
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Mon Jan 27 09:51:32 2025 +0100
+
+    ajout des fichiers footer et hearder
+
+[33mcommit 84d4d704c8a4a9ada538530b1d2b8d978361d49e[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Sun Jan 26 20:31:27 2025 +0100
+
+    ajout de logo facebook et twitter
+
+[33mcommit 016fb2df90259bbbc2405b0f630d86a1cbdad00d[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Sat Jan 25 16:07:10 2025 +0100
+
+    ajout de 3 logo de la page about
+
+[33mcommit e1c1c13d7bea3b0f4484eb1c5a411a414e5f76ce[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Sat Jan 25 13:45:09 2025 +0100
+
+    ajout d'images
+
+[33mcommit cc73e275688c173a90c81c36063c81cb95897be5[m
+Merge: 3bbd980 49159a2
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Fri Jan 24 22:41:10 2025 +0100
+
+    Merge branch 'master' of https://github.com/GROUPEY05/Devoir_site
+
+[33mcommit 3bbd980356d5834015dd982060dfaedee094f8af[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Fri Jan 24 22:25:30 2025 +0100
+
+    ajout des modification des fichiers contact.html et contact.css
+
+[33mcommit daca46605387421446a54d49b16be5609df4d41a[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Fri Jan 24 18:13:20 2025 +0100
+
+    ajout des modification contact.html
+
+[33mcommit 49159a2b06a58ab536988d3df31d17820d4dcc8b[m
+Merge: 36d85c6 15a726b
+Author: CallmeCheche <diannatamfu529@gmail.com>
+Date:   Fri Jan 24 10:34:58 2025 +0100
+
+    Merge pull request #1 from GROUPEY05/dianna
+    
+    ajout de fichier contact.html et contact.css
+
+[33mcommit beb12bdbd5fb9309361dfa4d2480485224da0f45[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Thu Jan 23 21:02:15 2025 +0100
+
+    ajout du contact.html et contact.css
+
+[33mcommit 15a726b1dfa714669169be0a69fe82b80354dfd2[m[33m ([m[1;31morigin/dianna[m[33m)[m
+Author: dianna <diannatamfu529@gmial.com>
+Date:   Thu Jan 23 20:30:24 2025 +0100
+
+    ajout de fichier contact.html et contact.css
+
+[33mcommit 36d85c61f3c165143aa9dabc49caf7ddbc51a32e[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Thu Jan 23 16:38:36 2025 +0100
+
+    ajout de 2 fichiers about.html et about.css
+
+[33mcommit ece3929aac88de19de46134eda56e5523d1c2eef[m
+Author: MARVEL-H8 <marvelheya@gmail.com>
+Date:   Thu Jan 23 16:09:43 2025 +0100
+
+    ajout des 2 fichiers about.html et about.css
+
+[33mcommit 571cd58f21e11155c5be50e09fca2c1a4a4340c5[m
+Author: Erica <ngeudjeyeerica@gmail.com>
+Date:   Thu Jan 23 15:54:42 2025 +0100
+
+    ajout de fichier
+
+[33mcommit 8157f6e034c4635a153575356a276e76f1a2ec33[m[33m ([m[1;31morigin/megane[m[33m)[m
+Author: megane tessa <meganetessa99@gmail.com>
+Date:   Thu Jan 23 15:11:56 2025 +0100
+
+     ajout de fichier de megane
+
+[33mcommit 635cbf32c8d27ca083511c4f35acce39dfdd3a22[m
+Author: ornella_yimga <ornellayimga72@gmail.com>
+Date:   Thu Jan 23 12:16:59 2025 +0100
+
+    ajout de fichiers images, et home
