@@ -7,6 +7,7 @@ body {
     flex-direction: column;
      /* Ensures the body takes at least the full height of the viewport */
     font-family: Arial, sans-serif;
+    margin: 0;
 }
 
 
@@ -14,23 +15,24 @@ body {
 .button_lune {
     display: flex;
     align-items: center;
-    column-gap: 90px;
-    gap: 60px;
+    
 }
 
 header {
     position: fixed;
-    width: px;
+    width: 1080px;
     height: 10px;
     left: 52px;
     top: 40px;
     right: 2px;
+    margin: 0px 100px 0px 100px;
+    
     
     
     display: flex; /* Active Flexbox */
     justify-content: space-between; /* Espace le logo et le menu */
     align-items: center; /* Centre verticalement les éléments */
-    padding: 6px 10px; /* Ajoute un peu d'espace autour */
+    padding: 10px; /* Ajoute un peu d'espace autour */
     
 }
 
@@ -66,12 +68,17 @@ header {
     height: 30px;
     margin-top: 45px; /* Reduced space */
 }
+.button_lune{
+   display: flex;
+    
+}
 
 nav ul {
     display: flex; /* Aligne les éléments du menu horizontalement */
     list-style: none; /* Supprime les puces de la liste */
     margin: 0; /* Supprime les marges par défaut */
     padding: 0;
+    
      
 }
 
@@ -79,12 +86,13 @@ nav ul li {
     margin: 0 25px;
     margin-top: 50px;
     
+    
 }
 
 nav ul li a {
     text-align: center;
     text-decoration: none;
-    color: #007bff;
+    color: #ccc;
     font-size: 14px;
    
 }
