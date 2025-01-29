@@ -161,7 +161,7 @@ color: #9a9999;
     text-align: center;
     display: flex;
     column-gap: 10px;
-
+    
 }
 .button-orange{
     background-color: rgb(242, 102, 67);
@@ -177,17 +177,17 @@ color: #9a9999;
     cursor: pointer;
     color: white;
     gap: 10px;
- 
+    
   height: 40px;
 }
 .button-blanc{
     background-color:white;
-    border: none;
+    border: 1;
     border-radius: 25px;
     font-size: 16px;
     position: absolute;
     top: 58%;
-    right: 80%;
+    right: 60%;
     padding-right: 20px;
     padding-left: 20px;
     transform: translate(-55%,-80%);
@@ -197,7 +197,7 @@ color: #9a9999;
     margin-left: -25px;
   height: 40px;  
 }
-.button-blanc:hover, .button_orange:hover{
+.button-blanc:hover, .button-orange:hover{
 background-color: #e69ddc;
 }    
 .bloc1_right{
@@ -942,8 +942,10 @@ margin-left: 10px;
   .dot.active {
     background-color: #ffa41b;
   }
+  @media{
+    
+  }
   
-
 
 
 

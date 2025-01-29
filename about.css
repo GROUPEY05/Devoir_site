@@ -959,3 +959,6 @@ iframe {
     height: 100%;
     margin-top: 3000px;
 }
+*{
+    font-family:'Poppins', sans-serif ;
+}
